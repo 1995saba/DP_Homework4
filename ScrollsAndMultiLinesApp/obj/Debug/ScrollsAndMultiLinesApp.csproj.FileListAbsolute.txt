@@ -1,0 +1,10 @@
+c:\users\hp\documents\visual studio 2017\Projects\ScrollsAndMultiLinesApp\ScrollsAndMultiLinesApp\bin\Debug\ScrollsAndMultiLinesApp.exe.config
+c:\users\hp\documents\visual studio 2017\Projects\ScrollsAndMultiLinesApp\ScrollsAndMultiLinesApp\bin\Debug\ScrollsAndMultiLinesApp.exe
+c:\users\hp\documents\visual studio 2017\Projects\ScrollsAndMultiLinesApp\ScrollsAndMultiLinesApp\bin\Debug\ScrollsAndMultiLinesApp.pdb
+c:\users\hp\documents\visual studio 2017\Projects\ScrollsAndMultiLinesApp\ScrollsAndMultiLinesApp\obj\Debug\ScrollsAndMultiLinesApp.csprojResolveAssemblyReference.cache
+c:\users\hp\documents\visual studio 2017\Projects\ScrollsAndMultiLinesApp\ScrollsAndMultiLinesApp\obj\Debug\ScrollsAndMultiLinesApp.Form.resources
+c:\users\hp\documents\visual studio 2017\Projects\ScrollsAndMultiLinesApp\ScrollsAndMultiLinesApp\obj\Debug\ScrollsAndMultiLinesApp.Properties.Resources.resources
+c:\users\hp\documents\visual studio 2017\Projects\ScrollsAndMultiLinesApp\ScrollsAndMultiLinesApp\obj\Debug\ScrollsAndMultiLinesApp.csproj.GenerateResource.Cache
+c:\users\hp\documents\visual studio 2017\Projects\ScrollsAndMultiLinesApp\ScrollsAndMultiLinesApp\obj\Debug\ScrollsAndMultiLinesApp.csproj.CoreCompileInputs.cache
+c:\users\hp\documents\visual studio 2017\Projects\ScrollsAndMultiLinesApp\ScrollsAndMultiLinesApp\obj\Debug\ScrollsAndMultiLinesApp.exe
+c:\users\hp\documents\visual studio 2017\Projects\ScrollsAndMultiLinesApp\ScrollsAndMultiLinesApp\obj\Debug\ScrollsAndMultiLinesApp.pdb
